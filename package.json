@@ -1,0 +1,65 @@
+{
+  "name": "fashion_makeup_llc",
+  "homepage": "https://fashionandmakeupusa.com",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@paypal/react-paypal-js": "^7.8.1",
+    "@stripe/react-stripe-js": "^1.11.0",
+    "@stripe/stripe-js": "^1.37.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "antd": "^4.23.2",
+    "axios": "^0.27.2",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "bootstrap": "^5.2.0",
+    "cookies": "^0.8.0",
+    "framer-motion": "^6.5.1",
+    "html2pdf.js": "^0.9.0",
+    "jquery": "^3.6.0",
+    "js-cookie": "^3.0.1",
+    "mdb-react-ui-kit": "^4.1.0",
+    "mdbreact": "^5.2.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-jquery-plugin": "^1.1.7",
+    "react-owl-carousel": "^2.3.3",
+    "react-redux": "^8.0.2",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-use-intercom": "^2.0.0",
+    "redux": "^4.2.0",
+    "redux-action-creator": "^3.0.0",
+    "redux-actions": "^2.6.5",
+    "redux-persist": "^6.0.0",
+    "redux-saga": "^1.2.1",
+    "swiper": "^8.3.2",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build",
+    "winBuild": "set \"GENERATE_SOURCEMAP=false\" && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

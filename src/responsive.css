@@ -1,0 +1,363 @@
+ul.addresSsec li {
+    display: flex;
+}
+
+.ctn-dashboard .w-detail-edit .w-d-left p {
+    font-size: 15px !important;
+}
+
+.ctn-dashboard .bL-sI-add .bL-sI-left p,
+.ctn-dashboard .bL-sI-add .bL-sI-right p {
+    margin-bottom: 6px;
+    font-size: 16px !important;
+}
+
+.pricere {
+    display: none;
+}
+
+.blog-details .card {
+    height: 350px;
+    width: 14rem;
+}
+
+.footerTop .icon-pins {
+    display: inline-block;
+    width: 53px;
+}
+
+.address_update_popup {
+    position: fixed;
+    top: 25% !important;
+    background: #40c35c;
+    left: 50% !important;
+    border: 2px solid white;
+    padding: 16px;
+    display: flex;
+    transform: translate(-50%, -50%) !important;
+}
+
+.bottom_popup {
+    bottom: 0% !important;
+    top: auto !important;
+    position: fixed;
+    z-index: 1111111;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+}
+
+.bottom-popup p {
+    height: 45px;
+    width: 45px;
+    text-align: center;
+    line-height: 22px;
+}
+
+.checkoutaddres {
+    border: 1px solid #ccc;
+    padding: 13px 30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+    font-weight: 500;
+
+}
+
+.content-address {
+    width: 60%;
+
+}
+
+.content-address h4 {
+    font-size: 18px;
+    letter-spacing: 0.5px;
+}
+
+.content-address p {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.content-address p span {
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    text-decoration: none !important;
+    padding-left: 15px;
+}
+
+.change-address {
+    border-radius: 5px;
+}
+
+.useraddres i {
+    color: #000;
+    font-size: 30px;
+}
+
+.change-address {
+    background-color: #eee;
+    height: 100%;
+    width: 10%;
+}
+
+.form-check-inline {
+    display: block;
+    margin-right: 1rem;
+    padding-bottom: 23px;
+}
+
+/*=============Make Responsive===============*/
+@media only screen and (max-width: 1440px) {
+    .slider-content {
+        top: 50px !important;
+    }
+}
+
+
+@media only screen and (max-width:1200px) {
+    .footerTop .icon-pins {
+        height: 50px !important;
+    }
+
+    .featured-add-inner .banner-content .banner-text1 {
+        font-size: 27px !important;
+    }
+
+    .featured-add-inner .banner-content p {
+
+        margin-bottom: -12px !important;
+    }
+}
+
+
+
+@media only screen and (max-width: 1024px) {
+    p.wsl-add_to_cart {
+        width: 150px;
+    }
+
+    .round-black-btn {
+        padding: 7px 9px !important;
+    }
+
+    .slider-content {
+        top: 0px !important;
+        left: 47px !important;
+        font-size: 30px;
+    }
+
+}
+
+@media only screen and (max-width: 1000px) {
+    .blog-details .card {
+        height: 350px;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    ul.addresSsec li {
+        display: block;
+    }
+
+
+    .crt-itemNo {
+        top: 41%;
+    }
+
+    .bottom_popup {
+        width: 85%;
+    }
+
+    .addresSsec li.icon-pins {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .cartItems .productImage {
+
+        height: auto !important;
+    }
+
+    p.wsl-add_to_cart {
+        height: 100%;
+        width: 150px;
+        margin-top: 25px;
+        margin-left: 13px;
+    }
+
+    .wishList-cont .cartItems .productList {
+        display: flex;
+        width: 100% !important;
+        flex-direction: column;
+    }
+
+    .cartItems {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .priceretop {
+        display: none;
+    }
+
+    .pricere {
+        display: inline-block;
+        padding-right: 10px;
+        color: rgb(0, 35, 131);
+        font-size: 15px !important;
+    }
+
+    .cartItems {
+        position: relative;
+    }
+
+    .res-price {
+        position: absolute !important;
+        top: 2%;
+        right: 0;
+        background-color: #c3cfe2;
+        color: rgb(10, 0, 32) !important;
+        width: 50% !important;
+        padding: 10px 20px;
+        text-align: center !important;
+        text-transform: uppercase;
+        font-size: 18px !important;
+    }
+
+    .cartItems {
+        display: block !important;
+    }
+
+    .fa-trash-o {
+        position: absolute !important;
+        top: 2%;
+        left: 0;
+    }
+
+    .round-black-btn {
+        padding: 7px 20px !important;
+    }
+
+    .btns-ght {
+        width: 100% !important;
+        display: flex;
+        margin: 24px auto;
+        justify-content: flex-start !important;
+    }
+
+    .blog-details .card {
+        height: 350px;
+        width: 100%;
+    }
+
+    .text-center.col-md-5 {
+        width: 25%;
+    }
+
+    .slider-content h1 {
+        font-size: 25px !important;
+    }
+
+    .slider-content h4 {
+        font-size: 20px !important;
+    }
+
+    .slider-content {
+        top: 50px !important;
+
+    }
+
+    .featured-add-inner .banner-content .banner-text1 {
+        font-size: 45px !important;
+    }
+}
+
+.bL-sI-add {
+    display: flex;
+}
+
+.bL-sI-add .bL-sI-left {
+    margin-right: 13px;
+}
+
+@media only screen and (max-width: 550px) {
+
+    .useraddres {
+        display: none;
+    }
+
+    .content-address {
+        width: 100%;
+    }
+
+    .bL-sI-add {
+        display: block;
+    }
+
+    .bL-sI-add .bL-sI-left {
+        margin-bottom: 13px;
+    }
+
+    .change-address {
+        margin-top: 15px;
+    }
+
+    .checkoutaddres {
+        padding: 10px !important;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+
+    .useraddres {
+        display: none;
+    }
+
+    .content-address {
+        width: 100%;
+    }
+
+    .ctn-dashboard .bL-sI-add {
+        display: flex;
+        flex-direction: column !important;
+    }
+
+    .blog-inner .col-lg-4.col-md-4.col-sm-4 {
+        width: 100% !important;
+    }
+
+    .round-black-btn {
+        padding: 1px 7px !important;
+        font-size: 15px !important;
+    }
+
+    .slider-content h1 {
+        font-size: 18px !important;
+    }
+
+    .slider-content h4 {
+        font-size: 15px !important;
+        width: 60%;
+    }
+
+    .slider-content {
+        top: 0px !important;
+    }
+
+    .address_update_popup {
+        width: 85% !important;
+    }
+
+    .address_update_popup p {
+        font-size: 13px !important;
+    }
+
+    .address_update_popup .fa-check {
+
+        font-size: 13px !important;
+    }
+}

@@ -1,0 +1,62 @@
+.accordion .card {
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 4px;
+}
+
+.accordion .card-header .pr-4 {
+    display: flex;
+}
+
+.accordion .accordion-collapse .block {
+    margin: 0 0 0px !important;
+    background: #fff;
+}
+
+button.btn-xnt {
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    line-height: 1.5;
+    padding: 0.7rem 0.75rem;
+    font-size: 0.6875rem;
+    border: 1px solid;
+    border-radius: 0;
+    color: #000 !important;
+    background-color: #ffffff !important;
+    border-color: #343a40;
+    margin-bottom: 16px;
+    margin-right: 30px;
+}
+
+button.btn-xnt:hover {
+    background-color: #000000 !important;
+    color: white !important;
+}
+
+
+.accordion .card-header .pr-4 span {
+    color: rgb(255 255 255);
+    margin-right: 13px;
+    background: rgb(0 0 0);
+    height: 22px;
+    padding: 1px 7px;
+    border-radius: 3px;
+    width: 22px;
+}
+
+.accordion .card-header {
+    background: #f9ebe8;
+}
+
+.accordion .card-header .fa-home,
+.asdasd,
+.fa-credit-card {
+    color: rgb(0, 0, 0);
+    margin-left: 0;
+    margin-right: 7px;
+}
+
+.accordion .card-header h5 {
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "review": "It has super strong aroma of coffee. In terms of face cleansing it do improve your face quality. You will notice difference immediately after using once or twice. I have been using the Bombay shavings charcoal kit from. Month. But now I believe both products are equally good. It all depends on your requirement. But after using coffee face wash once. I am addicted to its aroma and the purity it provides your face and neck with. But I also agree that charcoal face wash has a light aroma like you have get out of a shower. I like both of these types.",
+    "rating": 5,
+    "customerUserName": "test user ",
+    "reviewDate": "08 may 2022"
+  },
+  {
+    "id": 2,
+    "productId": 2,
+    "review": "Love this product this is the first time I've sharing my experience with this amazing product it was awesome had helped me lot to my skin before sometime when I was not using this my skin was like so dull and not so good but after using this now my skin was so plumpy, smooth, and it was glowing also .",
+    "rating": 4,
+    "customerUserName": "test user 1",
+    "reviewDate": "08 may 2022"
+  },
+  {
+    "id": 3,
+    "productId": 3,
+    "review": "Love this product this is the first time I've sharing my experience with this amazing product it was awesome had helped me lot to my skin before sometime when I was not using this my skin was like so dull and not so good but after using this now my skin was so plumpy, smooth, and it was glowing also .",
+    "rating": 1.5,
+    "customerUserName": "test user 2",
+    "reviewDate": "08 may 2022"
+  },
+  {
+    "id": 4,
+    "productId": 4,
+    "review": "Is your skin looking dull because of pollution and dirt? Has it lost its glow? Well, you need to give your worries a break and try our top-notch Charcoal Face Wash. It cleans all the dirt and dead skin cells that have lodged themselves on top of your skin’s surface. This facewash purifies and refreshes your skin while reducing acne, blackheads and dark spots. Free of SLS and Parabens, it is suitable for all skin types. To enhance the effects of this face wash, you should give our Charcoal Peel Off Mask a try. It helps to exfoliate your skin and deep clean it to eliminate blackheads. This peel-off mask will ensure the reduction of acne while getting rid of all the tan from your face. Together, these two products will help you groom yourself quickly and effectively.",
+    "rating": 2.5,
+    "customerUserName": "test user 4",
+    "reviewDate": "08 may 2022"
+  }
+]

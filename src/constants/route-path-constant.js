@@ -1,0 +1,17 @@
+export const HOME = '/';
+export const ABOUT_US = '/about_us';
+export const SHOP = '/shop';
+export const PRODUCT_DISCRIPTION = (title, id) => `/product/${title}/${id}`;
+export const BLOGS = '/blog';
+export const BLOG_DETAIL = (title, id) => `/blog_detail/${title}/${id}`;
+export const CONTACT = '/contact';
+export const SIGN_UP = '/Signup';
+export const CART = '/cart';
+export const DASHBOARD = '/dashboard';
+export const CHECKOUT = '/checkout';
+export const WISHLIST = '/wishlist';
+export const LOGIN = '/login';
+export const FORGOTPASSWORD = '/forgotpassword';
+export const BRAND_COMPONENT = (bname) => `/brand/${bname}`;
+export const CATEGORY_COMPONENT = (Cname) => `/category/${Cname}`;
+export const SEARCH_PRODUCT = '/searchProduct';
